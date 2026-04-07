@@ -1,0 +1,9 @@
+openai
+ipykernel
+langchain
+langchain-openai
+langchain-core
+langchain-community
+pypdf
+pymupdf
+chromadb
